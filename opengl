@@ -1,1 +1,4 @@
 g++ -o file_name file_name.c -lglut -lGLU -lGL
+
+# The above will be used to compile the openGL program
+# Install freeglut3-dev
