@@ -1,0 +1,1 @@
+g++ -o file_name file_name.c -lglut -lGLU -lGL
